@@ -45,3 +45,24 @@ print("Hello, 'friend'")
 print('Hello, \"friend\"') # escaping
 
 #int => numbers , no decimals
+
+#def=>  define functions,  taking inputs and writing outputs, you need to call them
+
+#def hello(to="world"): # if noone puts name it will say world
+ #  print("Hello, ", to)
+
+#name = input("Whats your name ")
+#hello(name)
+
+
+def main():
+    name = input("Whats your name ") #omer
+    hello(name)                      #hello ya gelicek input is omer
+
+def hello(to="world"):               # hello(omer)
+    print("hello,", to)              # hello omer
+
+    main()
+
+    # this the good way of writing functions, fix define them then call them, top to bottom
+
