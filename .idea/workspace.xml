@@ -4,15 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fe5d3d20-ce6b-48cc-943f-35bdec6d1b26" name="Changes" comment="first harvard projects&#10;&#10;hello and calculator added">
-      <change afterPath="$PROJECT_DIR$/greeting.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/guess.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/machine.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shows.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" afterDir="false" />
+    <list default="true" id="fe5d3d20-ce6b-48cc-943f-35bdec6d1b26" name="Changes" comment="week 2 of studying&#10;&#10;first lesson done with practice">
+      <change afterPath="$PROJECT_DIR$/week_conditionals/compare.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_conditionals/grade..py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_conditionals/house.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_conditionals/if.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_conditionals/parity.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/calculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/calculator.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hello.py" beforeDir="false" afterPath="$PROJECT_DIR$/hello.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,7 +25,15 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -57,11 +63,13 @@
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.calculator.executor": "Run",
+    "Python.compare.executor": "Run",
     "Python.greeting.executor": "Run",
     "Python.guess.executor": "Run",
     "Python.hello.executor": "Run",
     "Python.machine.executor": "Run",
     "Python.main.executor": "Run",
+    "Python.parity.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -93,7 +101,15 @@
       <option name="project" value="LOCAL" />
       <updated>1759742975641</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="week 2 of studying&#10;&#10;first lesson done with practice">
+      <option name="closed" value="true" />
+      <created>1763985569175</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1763985569175</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -109,6 +125,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first harvard projects&#10;&#10;hello and calculator added" />
-    <option name="LAST_COMMIT_MESSAGE" value="first harvard projects&#10;&#10;hello and calculator added" />
+    <MESSAGE value="week 2 of studying&#10;&#10;first lesson done with practice" />
+    <option name="LAST_COMMIT_MESSAGE" value="week 2 of studying&#10;&#10;first lesson done with practice" />
   </component>
 </project>
