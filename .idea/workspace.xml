@@ -4,12 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fe5d3d20-ce6b-48cc-943f-35bdec6d1b26" name="Changes" comment="week 2 of studying&#10;&#10;first lesson done with practice">
-      <change afterPath="$PROJECT_DIR$/week_conditionals/compare.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week_conditionals/grade..py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week_conditionals/house.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week_conditionals/if.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week_conditionals/parity.py" afterDir="false" />
+    <list default="true" id="fe5d3d20-ce6b-48cc-943f-35bdec6d1b26" name="Changes" comment="week 3 of studying&#10;&#10;done  if else or match bool case math stuff">
+      <change afterPath="$PROJECT_DIR$/week1_conditionals/practice/bank.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week1_conditionals/practice/deep.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week1_conditionals/practice/extensions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week1_conditionals/practice/interpreter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week1_conditionals/practice/meal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week1_conditionals/recommendations.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -62,13 +63,18 @@
   "keyToString": {
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.bank.executor": "Run",
     "Python.calculator.executor": "Run",
     "Python.compare.executor": "Run",
+    "Python.deep.executor": "Run",
+    "Python.extensions.executor": "Run",
     "Python.greeting.executor": "Run",
     "Python.guess.executor": "Run",
     "Python.hello.executor": "Run",
+    "Python.interpreter.executor": "Run",
     "Python.machine.executor": "Run",
     "Python.main.executor": "Run",
+    "Python.meal.executor": "Run",
     "Python.parity.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
@@ -78,6 +84,12 @@
     "ignore.virus.scanning.warn.message": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\gebruiker\PycharmProjects\Harvard_Projects\week1_conditionals" />
+      <recent name="C:\Users\gebruiker\PycharmProjects\Harvard_Projects\week_functions&amp;variables" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -109,7 +121,15 @@
       <option name="project" value="LOCAL" />
       <updated>1763985569175</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="week 3 of studying&#10;&#10;done  if else or match bool case math stuff">
+      <option name="closed" value="true" />
+      <created>1764874156273</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1764874156273</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -126,6 +146,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first harvard projects&#10;&#10;hello and calculator added" />
     <MESSAGE value="week 2 of studying&#10;&#10;first lesson done with practice" />
-    <option name="LAST_COMMIT_MESSAGE" value="week 2 of studying&#10;&#10;first lesson done with practice" />
+    <MESSAGE value="week 3 of studying&#10;&#10;done  if else or match bool case math stuff" />
+    <option name="LAST_COMMIT_MESSAGE" value="week 3 of studying&#10;&#10;done  if else or match bool case math stuff" />
   </component>
 </project>
