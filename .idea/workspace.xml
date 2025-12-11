@@ -4,14 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fe5d3d20-ce6b-48cc-943f-35bdec6d1b26" name="Changes" comment="week 3 of studying&#10;&#10;done  if else or match bool case math stuff">
-      <change afterPath="$PROJECT_DIR$/week1_conditionals/practice/bank.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week1_conditionals/practice/deep.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week1_conditionals/practice/extensions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week1_conditionals/practice/interpreter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week1_conditionals/practice/meal.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week1_conditionals/recommendations.py" afterDir="false" />
+    <list default="true" id="fe5d3d20-ce6b-48cc-943f-35bdec6d1b26" name="Changes" comment="week 3 of studying&#10;&#10;if else practice done + str methodes">
+      <change afterPath="$PROJECT_DIR$/week0_functions&amp;variables/practice/einstein.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week0_functions&amp;variables/practice/faces.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week0_functions&amp;variables/practice/indoor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week0_functions&amp;variables/practice/playback.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week0_functions&amp;variables/practice/tip.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week3_loops/cat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week3_loops/hogwarts.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week1_conditionals/practice/extensions.py" beforeDir="false" afterPath="$PROJECT_DIR$/week1_conditionals/practice/extensions.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,17 +67,24 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.bank.executor": "Run",
     "Python.calculator.executor": "Run",
+    "Python.cat.executor": "Run",
     "Python.compare.executor": "Run",
     "Python.deep.executor": "Run",
+    "Python.einstein.executor": "Run",
     "Python.extensions.executor": "Run",
+    "Python.faces.executor": "Run",
     "Python.greeting.executor": "Run",
     "Python.guess.executor": "Run",
     "Python.hello.executor": "Run",
+    "Python.hogwarts.executor": "Run",
+    "Python.indoor.executor": "Run",
     "Python.interpreter.executor": "Run",
     "Python.machine.executor": "Run",
     "Python.main.executor": "Run",
     "Python.meal.executor": "Run",
     "Python.parity.executor": "Run",
+    "Python.playback.executor": "Run",
+    "Python.tip.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -129,7 +138,15 @@
       <option name="project" value="LOCAL" />
       <updated>1764874156273</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="week 3 of studying&#10;&#10;if else practice done + str methodes">
+      <option name="closed" value="true" />
+      <created>1764957678325</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1764957678325</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -147,6 +164,7 @@
     <MESSAGE value="first harvard projects&#10;&#10;hello and calculator added" />
     <MESSAGE value="week 2 of studying&#10;&#10;first lesson done with practice" />
     <MESSAGE value="week 3 of studying&#10;&#10;done  if else or match bool case math stuff" />
-    <option name="LAST_COMMIT_MESSAGE" value="week 3 of studying&#10;&#10;done  if else or match bool case math stuff" />
+    <MESSAGE value="week 3 of studying&#10;&#10;if else practice done + str methodes" />
+    <option name="LAST_COMMIT_MESSAGE" value="week 3 of studying&#10;&#10;if else practice done + str methodes" />
   </component>
 </project>

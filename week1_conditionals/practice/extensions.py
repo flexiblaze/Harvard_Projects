@@ -2,7 +2,6 @@
 
 extenstion = input("File name ").lower()
 
-
 if extenstion.endswith('.gif',):
     print("image/gif")
 elif extenstion.endswith('.jpg',):
